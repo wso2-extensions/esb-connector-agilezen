@@ -11,11 +11,11 @@ Tested Platform:
 
  - Microsoft WINDOWS V-7
  - UBUNTU 13.04
- - WSO2 ESB 4.9.0 
+ - WSO2 ESB 4.9.0,WSO2 ESB 5.0.0-BETA
 
 Steps to follow in setting integration test.
 
- 1. Download ESB 4.9.0  from the official file
+ 1. Download latest ESB from the official file
 
  2. i)  Install the AgileZen security certificate (login to https://agilezen.com and extract the certificate) to the following keystores:
 		a) 	client-truststore.jks located in the <ESB_HOME>/repository/resources/security directory.
