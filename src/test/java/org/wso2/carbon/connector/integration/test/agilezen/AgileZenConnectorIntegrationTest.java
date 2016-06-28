@@ -49,7 +49,7 @@ public class AgileZenConnectorIntegrationTest extends ConnectorIntegrationTestBa
         
         apiRequestHeadersMap = new HashMap<String, String>();
         
-        init("agilezen-connector-1.0.1-SNAPSHOT");
+        init("agilezen-connector-1.0.1");
         
         esbRequestHeadersMap.put("Accept", "application/json");
         esbRequestHeadersMap.put("Content-Type", "application/json");
