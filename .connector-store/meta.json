@@ -4,7 +4,7 @@
     "category": "Issue Tracking and Project Management",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/AgileZen+Connector",
     "description": " AgileZen is a simple, flexible and cost effective web based software for project management built on ideas from Agile, Lean and Kanban methodologies. ",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
